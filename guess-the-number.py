@@ -44,10 +44,12 @@ def game(a, b):
           attemts += 1
           guess = int(input('Введите свое число: '))
 
-      
-      
-    
-
 
 
 rules()
+
+
+
+
+
+
