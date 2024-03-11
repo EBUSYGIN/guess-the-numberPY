@@ -43,9 +43,6 @@ def game(a, b):
           print('Почти, попробуйте еще раз, но больше')
           attemts += 1
           guess = int(input('Введите свое число: '))
-
-
-
 rules()
 
 
